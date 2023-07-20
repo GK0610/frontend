@@ -1,0 +1,27 @@
+.employee-list {
+    margin-top: 20px;
+  }
+  
+  .employee-list-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .employee-list-item span {
+    flex: 1;
+  }
+  
+  .employee-list-item button {
+    margin-left: 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .employee-list-item button:hover {
+    background-color: #c82333;
+  }
+  

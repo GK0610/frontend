@@ -1,0 +1,29 @@
+.employee-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .employee-item .info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .employee-item .info span {
+    flex: 1;
+  }
+  
+  .employee-item .actions button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .employee-item .actions button:hover {
+    background-color: #c82333;
+  }
+  
